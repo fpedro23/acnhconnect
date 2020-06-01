@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to ACNH Connect.
 
-You can use the [editor on GitHub](https://github.com/fpedro23/acnhconnect/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ACNH Connect is designed to make your Animal Crossing: New Horizons journey easier, more fun, and more social. Download the application to find other users' island, show off your own, connect with other players, and so much more!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ACNH Connect is here to help you:
 
-### Markdown
+* Find the highest turnip prices and ask the owner of that island to visit
+* Track down a specific special character
+* Make new friends and share recipes
+* Favorite islands with great design ideas
+* Show off your new island design and host visitors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Please note that this application is specifically for Animal Crossing: New Horizons users. Players of other versions of the game will not find value in this application._
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fpedro23/acnhconnect/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with ACNH Connect? Send an email to fpedro23@gmaio.com and we’ll help you sort it out.
